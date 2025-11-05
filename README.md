@@ -40,9 +40,7 @@ Exploring worldwide development indicators using the Gapminder dataset.
 
 🔹 [**IoT-Based Cradle System**](https://github.com/anvitha03x/IoT-Based-Cradle-System)  
 An IoT solution integrating sensors to monitor infant comfort and safety.  
-
-🔹 [**Coursera Data Science Notes**](https://github.com/anvitha03x/CourseraDataScience)  
-A collection of learning materials and mini projects from my data science journey.  
+ 
 
 ---
 
