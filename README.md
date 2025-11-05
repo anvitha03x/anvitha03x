@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Anvitha Suvarna</h1>
-<h3 align="center">💻 Data Enthusiast | Final-Year B.E. in Computer Science | Passionate Learner 🚀</h3>
+<h3 align="center">💻 Data Enthusiast | Passionate Learner 🚀</h3>
 
 ---
 
